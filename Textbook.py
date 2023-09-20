@@ -8,4 +8,5 @@ textbook.append((''' Python for Data Analysis''',
                  '3rd edition',
                  '''Wes Mckinney''',
                  2022,
-                 '''
+                'test'
+                 ))
